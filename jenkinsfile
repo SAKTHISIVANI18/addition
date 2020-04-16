@@ -13,7 +13,7 @@ agent any
    }
    stage('deploy'){
    steps{
-   sh 'cp  /var/lib/jenkins/workspace/addpipe /home/dineshreddy99077/noida/apache-tomcat-7.0.103/webapps
+   sh 'cp  /var/lib/jenkins/workspace/addpipe /home/dineshreddy99077/noida/apache-tomcat-7.0.103/webapps'
    }
    }
       
