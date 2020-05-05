@@ -6,4 +6,5 @@ class add{
 
       System.out.println("Sum of these numbers: "+sum);
    }
+
 }
